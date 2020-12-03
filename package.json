@@ -1,0 +1,27 @@
+{
+  "name": "hugsycms-docs",
+  "version": "0.0.1",
+  "description": "docs of hugsyCMS",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugsycms/docs.git"
+  },
+  "keywords": [
+    "hugsyCMS"
+  ],
+  "author": "kavience",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugsycms/docs/issues"
+  },
+  "homepage": "https://github.com/hugsycms/docs#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
